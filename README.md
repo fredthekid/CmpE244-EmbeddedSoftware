@@ -1,14 +1,14 @@
 # embedded-software-cmpe244
 CmpE244 Lab Assignments
 
-UART Driver
+1. UART Driver
 
-SPI Flash Memory Driver
+2. SPI Flash Memory Driver
 
-I2C Device to Device Driver
+3. I2C Device to Device Driver
 
-Producer/Consumer Threads
+4. Producer/Consumer Threads
 
-Semaphores
+5. Semaphores
 
-FreeRTOS Watchdog
+6. FreeRTOS Watchdog
