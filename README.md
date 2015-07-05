@@ -1,6 +1,5 @@
 # embedded-software-cmpe244
-CmpE244 Lab Assignments
-
+SJSU CmpE Embedded Software
 1. UART Driver
 
 2. SPI Flash Memory Driver
