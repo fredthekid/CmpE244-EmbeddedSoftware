@@ -1,5 +1,5 @@
 # embedded-software-cmpe244
-==CmpE244 Lab Assignments==
+CmpE244 Lab Assignments
 
 UART Driver
 
