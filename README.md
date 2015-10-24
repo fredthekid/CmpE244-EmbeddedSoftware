@@ -1,4 +1,4 @@
-# SJSU CmpE Embedded Software Course
+# SJSU CmpE244 Embedded Software Course
 
 1. UART Driver
 
